@@ -1,0 +1,43 @@
+# 👋 Hi there, I'm Sangeetha!
+
+Welcome to my GitHub Portfolio! I'm an enthusiastic tech explorer with a passion for Machine Learning, Data Science, and hardware-based projects. I enjoy working on real-world problems and turning ideas into working applications using technologies like Python, Raspberry Pi, AWS SageMaker, and more.
+
+---
+
+## 🔧 Projects I've Worked On
+
+### 💡 Machine Learning Projects
+- **Heart Disease Prediction**  
+  A model to predict the presence of heart disease using anonymized health data with feature engineering and classification techniques.
+
+- **Wine Quality Prediction (SageMaker + XGBoost)**  
+  Built a regression model using Amazon SageMaker's hyperparameter tuning with the UCI Wine Quality dataset.
+
+- **Iris Flower Classification**  
+  Used Random Forest Classifier to categorize iris species — a great beginner ML classification project.
+
+### 🔐 Security Projects
+- **SVM-based Network Intrusion Detection**  
+  Applied Support Vector Machines (SVM) to detect anomalies and provide security to networks.
+
+- **Spam Classification (with John)**  
+  Collaborated with an Anti-Spam Researcher to classify spam using XGBoost in Java.
+
+### 🔬 IoT/Hardware Projects
+- **Automatic Plant Watering System (Raspberry Pi)**  
+  Designed a smart watering system that senses soil moisture and waters plants automatically.
+
+- **Gas Leakage Detection System**  
+  Built a safety alert system using gas sensors and microcontrollers to detect and notify in case of gas leaks.
+
+---
+
+## 📫 Let's Connect!
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/pinniboyina-sangeetha-510b45314/)  
+- 📧 Email: yourname@example.com  
+- 🌐 Portfolio Website: [yourwebsite.com](https://yourwebsite.com)
+
+---
+
+Thanks for visiting! Feel free to explore my repositories and drop a ⭐ if you like any of them.
